@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
 
   spec.homepage     = "https://github.com/finbox-in/bc-ios-sdk"
 
-  spec.license      = { :type => "UNLICENSED", :file => "LICENSE" }
+  spec.license      = { :type => "Proprietary", :file => "LICENSE" }
 
   spec.authors      = { "Srikar Reddy" => "srikar@finbox.in",
                         "Ashutosh Jena" => "ashutosh.jena@finbox.in" }
