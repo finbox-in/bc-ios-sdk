@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "BankConnect",
             url: "https://github.com/finbox-in/bc-ios-sdk/releases/download/v0.5.3/BankConnect-0.5.3.xcframework.zip",
-            checksum: "1ad9e01b9f1f11298704cda83386a12b945df1fc13000a8327f687c6bc87250f"
+            checksum: "2941786a027331c530418be9a160f6c22328a6c39696de4d790933d5300a8501"
         ),
     ]
 )
